@@ -16,3 +16,5 @@ b. Print Jerry, if number is even and exists between 20 and 30
 Condition: 
 a. Print an error message if the input is not a letter b. If the input having more than one letter, print the required output(Vowel or Consonant) for each letter.
 
+4. PE1asst4 Class is a program using a loop to print the following output. 1 2 2 3 3 3 4 4 4 4 5 5 5 5 5 6 6 6 6 6 6 . . . nth iteration.
+
