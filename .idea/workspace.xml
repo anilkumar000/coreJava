@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a332dba-2812-4c89-9334-ac717351cc75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/JunitDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1asst1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1asst2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1asst3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1asst4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1asst5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst5.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,11 +29,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/JunitDemoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-508">
+            <state relative-caret-position="-326">
               <caret line="6" selection-start-line="6" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -67,6 +71,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1asst5.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/JunitDemoTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/JunitDemo.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -122,6 +127,13 @@
               <item name="javaDevelopment" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaDevelopment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaDevelopment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaDevelopment" type="b2602c69:ProjectViewProjectNode" />
@@ -291,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562841965171</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Demo of testing with Junit">
+      <created>1562855394742</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1562855394742</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -324,7 +343,7 @@
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26656026" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26656026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -333,7 +352,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29641694" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29641694" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39856374" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -341,7 +360,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32736155" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32899022" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -358,7 +377,8 @@
     <MESSAGE value="PE1asst4_class created and readme updated" />
     <MESSAGE value="PE1asst4 completed" />
     <MESSAGE value="PE1asst5 created and completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="PE1asst5 created and completed" />
+    <MESSAGE value="Demo of testing with Junit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Demo of testing with Junit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -387,13 +407,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1asst1.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1asst2.java" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1asst3.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1asst4.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1asst5.java" />
@@ -406,8 +419,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/JunitDemoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-508">
+        <state relative-caret-position="-326">
           <caret line="6" selection-start-line="6" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
