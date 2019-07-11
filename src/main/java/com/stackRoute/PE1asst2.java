@@ -8,6 +8,7 @@ public class PE1asst2 {
         int n;
         // Taking input from user
         Scanner num = new Scanner(System.in);
+        System.out.print("Input a Number: ");
         n = num.nextInt();
 
 
