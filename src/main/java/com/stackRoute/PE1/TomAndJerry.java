@@ -2,7 +2,7 @@ package com.stackRoute.PE1;
 
 import java.util.Scanner;
 
-public class PE1asst2 {
+public class TomAndJerry {
     public static void main(String[] args) {
 
         int n;

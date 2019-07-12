@@ -5,7 +5,7 @@ import java.util.*;
 
 import static java.util.Collections.*;
 
-public class PE1asst7 {
+public class IntegerSorterAndEvenSumFinder {
     public int conertGivenNumberToString(int number){
 
         String num=Integer.toString(number);

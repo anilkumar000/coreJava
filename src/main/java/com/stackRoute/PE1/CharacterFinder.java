@@ -1,6 +1,6 @@
 package com.stackRoute.PE1;
 
-public class PE1asst6 {
+public class CharacterFinder {
     public String givenCharTypeIs(char chr1){
 
 

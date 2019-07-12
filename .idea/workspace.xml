@@ -2,14 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a332dba-2812-4c89-9334-ac717351cc75" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/RandomNumberGuesser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/StringRepeater.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/PE1asst6Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/PE1asst6Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PalindromeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/TomAndJerry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/VowelConsonantFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/NumberBasedIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/CharacterFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/IntegerSorterAndEvenSumFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/StringReverser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/numbersAdder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/NumbersAdder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/PE1asst6Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/CharacterFinderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/PE1asst7Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/IntegerSorterAndEvenSumFinderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/PE1asst9Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/StringReverserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/numbersAdderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/NumbersAdderTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,52 +36,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst7.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/NumbersAdder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/numbersAdder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="75">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/numbersAdderTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/NumbersAdderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="-41">
+              <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/PE1asst6Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -106,7 +85,6 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst9.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/PE1asst9Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst8.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst4.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst2.java" />
@@ -116,7 +94,19 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/numbersAdder.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/PE1asst6Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/PE1asst7Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst8.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst10.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/TomAndJerry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/VowelConsonantFinder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/NumberBasedIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/CharacterFinder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/IntegerSorterAndEvenSumFinder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/RandomNumberGuesser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/StringReverser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/StringRepeater.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/numbersAdderTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/NumbersAdderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/NumbersAdder.java" />
       </list>
     </option>
   </component>
@@ -133,68 +123,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="javaDevelopment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaDevelopment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaDevelopment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaDevelopment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaDevelopment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaDevelopment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaDevelopment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaDevelopment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaDevelopment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaDevelopment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="PE1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaDevelopment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaDevelopment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaDevelopment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaDevelopment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaDevelopment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaDevelopment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="PE1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaDevelopment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -204,9 +133,10 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/hamcrest-all-1.3.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -233,9 +163,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.numbersAdderTest.givenArrayAndShouldReturnAdditionOfElements">
-    <configuration name="PE1asst7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackRoute.PE1.PE1asst7" />
+  <component name="RunManager" selected="JUnit.NumbersAdderTest.givenArrayElementCharAndShouldReturnError">
+    <configuration name="NumberBasedIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackRoute.PE1.NumberBasedIterator" />
       <module name="javaDevelopment" />
       <extension name="coverage">
         <pattern>
@@ -247,7 +177,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PE1asst9Test.givenStringShouldReturntheReverse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NumbersAdderTest.givenArrayAndShouldReturnError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaDevelopment" />
       <extension name="coverage">
         <pattern>
@@ -256,14 +186,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackRoute.PE1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackRoute.PE1.PE1asst9Test" />
-      <option name="METHOD_NAME" value="givenStringShouldReturntheReverse" />
+      <option name="MAIN_CLASS_NAME" value="com.stackRoute.PE1.NumbersAdderTest" />
+      <option name="METHOD_NAME" value="givenArrayAndShouldReturnError" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="numbersAdderTest.addTheNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NumbersAdderTest.givenArrayElementCharAndShouldReturnError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaDevelopment" />
       <extension name="coverage">
         <pattern>
@@ -272,8 +202,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackRoute.PE1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackRoute.PE1.numbersAdderTest" />
-      <option name="METHOD_NAME" value="addTheNumbers" />
+      <option name="MAIN_CLASS_NAME" value="com.stackRoute.PE1.NumbersAdderTest" />
+      <option name="METHOD_NAME" value="givenArrayElementCharAndShouldReturnError" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -313,11 +243,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NumbersAdderTest.givenArrayElementCharAndShouldReturnError" />
+        <item itemvalue="JUnit.NumbersAdderTest.givenArrayAndShouldReturnError" />
+        <item itemvalue="Application.NumberBasedIterator" />
         <item itemvalue="JUnit.numbersAdderTest.givenArrayAndShouldReturnAdditionOfElements" />
         <item itemvalue="JUnit.numbersAdderTest.givenArrayAndShouldReturnError" />
-        <item itemvalue="JUnit.numbersAdderTest.addTheNumbers" />
-        <item itemvalue="JUnit.PE1asst9Test.givenStringShouldReturntheReverse" />
-        <item itemvalue="Application.PE1asst7" />
       </list>
     </recent_temporary>
   </component>
@@ -402,16 +332,17 @@
       <option name="project" value="LOCAL" />
       <updated>1562865913103</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="created numbersAdder with test cases(asst5)">
+      <created>1562912673655</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1562912673655</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PE1asst7Test_sortANumber - 2019.07.11 at 22h 19m 39s.xml">
-      <configuration name="PE1asst7Test.sortANumber" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PE1asst7Test_sortANumber - 2019.07.11 at 22h 25m 28s.xml">
-      <configuration name="PE1asst7Test.sortANumber" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PE1asst9Test_givenStringShouldReturntheReverse - 2019.07.11 at 22h 54m 18s.xml">
       <configuration name="PE1asst9Test.givenStringShouldReturntheReverse" configurationId="JUnit" />
     </history-entry>
@@ -436,6 +367,12 @@
     <history-entry file="numbersAdderTest_givenArrayAndShouldReturnAdditionOfElements - 2019.07.12 at 11h 30m 30s.xml">
       <configuration name="numbersAdderTest.givenArrayAndShouldReturnAdditionOfElements" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="NumbersAdderTest_givenArrayAndShouldReturnError - 2019.07.12 at 12h 43m 57s.xml">
+      <configuration name="NumbersAdderTest.givenArrayAndShouldReturnError" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumbersAdderTest_givenArrayElementCharAndShouldReturnError - 2019.07.12 at 14h 59m 53s.xml">
+      <configuration name="NumbersAdderTest.givenArrayElementCharAndShouldReturnError" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -450,7 +387,7 @@
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27613726" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2905028" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -459,7 +396,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29641694" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29641694" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39856374" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -467,7 +404,8 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32736155" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.22638437" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.22638437" />
+      <window_info anchor="bottom" id="SonarLint" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -490,7 +428,8 @@
     <MESSAGE value="PE1asst6 completed successfully with test cases" />
     <MESSAGE value="readme.md updated" />
     <MESSAGE value="PEasst7 created and completed with test case" />
-    <option name="LAST_COMMIT_MESSAGE" value="PEasst7 created and completed with test case" />
+    <MESSAGE value="created numbersAdder with test cases(asst5)" />
+    <option name="LAST_COMMIT_MESSAGE" value="created numbersAdder with test cases(asst5)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/javaDevelopment$Main.ic" NAME="Main Coverage Results" MODIFIED="1562743273976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
@@ -524,13 +463,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/JunitDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -538,73 +470,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/PE1asst7Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/IntegerSorterAndEvenSumFinderTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="257">
           <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
@@ -618,38 +485,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/PE1asst9Test.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/StringReverserTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/numbersAdder.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/TomAndJerry.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="-30">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/PE1asst6Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst6.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/NumberBasedIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/numbersAdderTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/VowelConsonantFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PalindromeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/CharacterFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/IntegerSorterAndEvenSumFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/RandomNumberGuesser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/StringReverser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/StringRepeater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/CharacterFinderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="35" column="50" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/NumbersAdder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/NumbersAdderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41">
+          <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -1,6 +1,6 @@
 package com.stackRoute.PE1;
 
-public class PE1asst9 {
+public class StringReverser {
     public String reverseString(String str3) {
 
         String reversedString = "";

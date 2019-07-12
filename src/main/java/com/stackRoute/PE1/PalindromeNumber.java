@@ -2,7 +2,7 @@ package com.stackRoute.PE1;
 
 import java.util.Scanner;
 
-public class PE1asst1 {
+public class PalindromeNumber {
     public static void main(String[] args) {
 
         int n, reversedInteger = 0, remainder, originalInteger, sum = 0, temp;

@@ -4,20 +4,20 @@ import org.junit.*;
 
 import static org.junit.Assert.*;
 
-public class PE1asst7Test {
-    public PE1asst7 pe1asst7;
+public class CharacterFinderTest {
+    public CharacterFinder characterFinder;
     @Before
     public void setup(){
         //arrrange
         System.out.println("Inside before");
-        this.pe1asst7=new PE1asst7();
+        this.characterFinder =new CharacterFinder();
     }
 
 
     @After
     public void tearDown(){
         System.out.println("Inside after");
-        pe1asst7=null;
+        characterFinder =null;
     }
 
     @BeforeClass
@@ -30,13 +30,14 @@ public class PE1asst7Test {
         System.out.println("After class");
     }
 
-
     @Test
-    public void givenNumbeAndShouldReturnSortNumber() {
+    public void givenCharAndShouldReturnTypeOfChar() {
         //act
-        int actualResult;
-        actualResult = pe1asst7.conertGivenNumberToString(194637);
+        String actualResult= characterFinder.givenCharTypeIs('A');
         //assert
-        assertEquals(976431,actualResult);
+        assertEquals("Capital Letter",actualResult);
+
     }
+
+
 }

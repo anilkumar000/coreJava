@@ -2,7 +2,7 @@ package com.stackRoute.PE1;
 
 import java.util.Scanner;
 
-public class PE1asst4 {
+public class NumberBasedIterator {
     public static void main(String[] args) {
 
 
