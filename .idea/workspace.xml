@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a332dba-2812-4c89-9334-ac717351cc75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/RandomNumberGuesser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/StringRepeater.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PalindromeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/TomAndJerry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/VowelConsonantFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/NumberBasedIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/CharacterFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/IntegerSorterAndEvenSumFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/PE1asst9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/StringReverser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/numbersAdder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackRoute/PE1/NumbersAdder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/PE1asst6Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/CharacterFinderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/PE1asst7Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/IntegerSorterAndEvenSumFinderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/PE1asst9Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/StringReverserTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/numbersAdderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/NumbersAdderTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/NumbersAdderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-41">
-              <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
+            <state relative-caret-position="252">
+              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -339,13 +323,17 @@
       <option name="project" value="LOCAL" />
       <updated>1562912673655</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="NumbersAdder with different test cases done and Naming conventions are corrected">
+      <created>1562925125905</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1562925125906</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PE1asst9Test_givenStringShouldReturntheReverse - 2019.07.11 at 22h 54m 18s.xml">
-      <configuration name="PE1asst9Test.givenStringShouldReturntheReverse" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="numbersAdderTest_addTheNumbers - 2019.07.12 at 10h 56m 55s.xml">
       <configuration name="numbersAdderTest.addTheNumbers" configurationId="JUnit" />
     </history-entry>
@@ -373,6 +361,9 @@
     <history-entry file="NumbersAdderTest_givenArrayElementCharAndShouldReturnError - 2019.07.12 at 14h 59m 53s.xml">
       <configuration name="NumbersAdderTest.givenArrayElementCharAndShouldReturnError" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="NumbersAdderTest_givenArrayElementCharAndShouldReturnError - 2019.07.12 at 15h 17m 36s.xml">
+      <configuration name="NumbersAdderTest.givenArrayElementCharAndShouldReturnError" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -385,9 +376,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2905028" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2905028" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -404,8 +394,8 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32736155" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.22638437" />
-      <window_info anchor="bottom" id="SonarLint" order="11" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.22638437" />
+      <window_info anchor="bottom" id="SonarLint" order="11" visible="true" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -429,7 +419,9 @@
     <MESSAGE value="readme.md updated" />
     <MESSAGE value="PEasst7 created and completed with test case" />
     <MESSAGE value="created numbersAdder with test cases(asst5)" />
-    <option name="LAST_COMMIT_MESSAGE" value="created numbersAdder with test cases(asst5)" />
+    <MESSAGE value="NumbersAdder with different test cases done." />
+    <MESSAGE value="NumbersAdder with different test cases done and Naming conventions are corrected" />
+    <option name="LAST_COMMIT_MESSAGE" value="NumbersAdder with different test cases done and Naming conventions are corrected" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/javaDevelopment$Main.ic" NAME="Main Coverage Results" MODIFIED="1562743273976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
@@ -584,8 +576,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/stackRoute/PE1/NumbersAdderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-41">
-          <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
+        <state relative-caret-position="252">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
