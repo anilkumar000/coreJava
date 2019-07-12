@@ -1,4 +1,4 @@
-package com.stackRoute;
+package com.stackRoute.PE1;
 
 import java.util.Scanner;
 
